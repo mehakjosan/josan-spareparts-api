@@ -4,7 +4,7 @@ from appcustomer import customer_bp
 from apppurchase import purchase_bp
 from appproducts import products_bp
 from appsale import sale_bp
-from app import vendor_bp
+from appvendor import vendor_bp
 
 app = Flask(__name__)
 
