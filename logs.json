@@ -1,0 +1,66 @@
+{"time": "2026-04-21 15:32:07,346", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 259}
+{"time": "2026-04-21 15:32:07,358", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-21 15:32:07,358", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-21 15:33:49,395", "level": "INFO", "message": "Login API called", "file": "app.py", "line": 61}
+{"time": "2026-04-21 15:33:49,399", "level": "INFO", "message": "Login successful", "file": "app.py", "line": 75}
+{"time": "2026-04-21 15:33:49,401", "level": "INFO", "message": "127.0.0.1 - - [21/Apr/2026 15:33:49] \"POST /login HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-21 15:34:24,520", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-21 15:34:24,730", "level": "INFO", "message": "127.0.0.1 - - [21/Apr/2026 15:34:24] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:34:04,986", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 259}
+{"time": "2026-04-22 19:34:05,016", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:34:05,016", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:38:17,954", "level": "INFO", "message": "127.0.0.1 - - [22/Apr/2026 19:38:17] \"\u001b[31m\u001b[1mGET /login HTTP/1.1\u001b[0m\" 405 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:38:25,802", "level": "INFO", "message": "Login API called", "file": "app.py", "line": 61}
+{"time": "2026-04-22 19:38:25,810", "level": "INFO", "message": "Login successful", "file": "app.py", "line": 75}
+{"time": "2026-04-22 19:38:25,810", "level": "INFO", "message": "127.0.0.1 - - [22/Apr/2026 19:38:25] \"POST /login HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:39:07,423", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-22 19:39:07,866", "level": "INFO", "message": "127.0.0.1 - - [22/Apr/2026 19:39:07] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:43:54,903", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-22 19:43:55,059", "level": "INFO", "message": "127.0.0.1 - - [22/Apr/2026 19:43:55] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-22 19:43:56,721", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-22 19:43:56,753", "level": "INFO", "message": "127.0.0.1 - - [22/Apr/2026 19:43:56] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:18:24,672", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 259}
+{"time": "2026-04-23 00:18:24,696", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:18:24,696", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:20:16,414", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 259}
+{"time": "2026-04-23 00:20:16,428", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:20:16,428", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:20:22,193", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-23 00:20:22,194", "level": "ERROR", "message": "Token error: Signature has expired", "file": "app.py", "line": 106}
+{"time": "2026-04-23 00:20:22,195", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:20:22] \"\u001b[31m\u001b[1mGET /api/vendors HTTP/1.1\u001b[0m\" 403 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:20:48,132", "level": "INFO", "message": "Login API called", "file": "app.py", "line": 61}
+{"time": "2026-04-23 00:20:48,134", "level": "INFO", "message": "Login successful", "file": "app.py", "line": 75}
+{"time": "2026-04-23 00:20:48,134", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:20:48] \"POST /login HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:21:24,145", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 88}
+{"time": "2026-04-23 00:21:24,214", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:21:24] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:25:48,628", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 186}
+{"time": "2026-04-23 00:25:48,652", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:25:48,652", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:28:17,767", "level": "INFO", "message": "Login API called", "file": "app.py", "line": 74}
+{"time": "2026-04-23 00:28:17,768", "level": "INFO", "message": "Login successful", "file": "app.py", "line": 88}
+{"time": "2026-04-23 00:28:17,770", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:28:17] \"POST /login HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:28:59,331", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 101}
+{"time": "2026-04-23 00:28:59,622", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:28:59] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:32:48,671", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 186}
+{"time": "2026-04-23 00:32:48,689", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:32:48,690", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:32:56,846", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 101}
+{"time": "2026-04-23 00:32:56,943", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:32:56] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-04-23 00:32:58,376", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 101}
+{"time": "2026-04-23 00:32:58,381", "level": "INFO", "message": "127.0.0.1 - - [23/Apr/2026 00:32:58] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:05:58,847", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 186}
+{"time": "2026-05-01 16:05:58,866", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:05:58,866", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:37:51,155", "level": "INFO", "message": "Server starting...", "file": "app.py", "line": 186}
+{"time": "2026-05-01 16:37:51,186", "level": "INFO", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:37:51,186", "level": "INFO", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:40:21,419", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 101}
+{"time": "2026-05-01 16:40:21,424", "level": "ERROR", "message": "Token error: Signature has expired", "file": "app.py", "line": 119}
+{"time": "2026-05-01 16:40:21,428", "level": "INFO", "message": "127.0.0.1 - - [01/May/2026 16:40:21] \"\u001b[31m\u001b[1mGET /api/vendors HTTP/1.1\u001b[0m\" 403 -", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:41:19,809", "level": "INFO", "message": "127.0.0.1 - - [01/May/2026 16:41:19] \"\u001b[31m\u001b[1mGET /login HTTP/1.1\u001b[0m\" 405 -", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:41:25,808", "level": "INFO", "message": "Login API called", "file": "app.py", "line": 74}
+{"time": "2026-05-01 16:41:25,809", "level": "INFO", "message": "Login successful", "file": "app.py", "line": 88}
+{"time": "2026-05-01 16:41:25,809", "level": "INFO", "message": "127.0.0.1 - - [01/May/2026 16:41:25] \"POST /login HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 16:42:08,096", "level": "INFO", "message": "Verifying token", "file": "app.py", "line": 101}
+{"time": "2026-05-01 16:42:08,340", "level": "INFO", "message": "127.0.0.1 - - [01/May/2026 16:42:08] \"GET /api/vendors HTTP/1.1\" 200 -", "file": "_internal.py", "line": 97}
+{"time": "2026-05-01 19:04:39,419", "level": "INFO", "message": "127.0.0.1 - - [01/May/2026 19:04:39] \"\u001b[33mGET /api/products HTTP/1.1\u001b[0m\" 404 -", "file": "_internal.py", "line": 97}
